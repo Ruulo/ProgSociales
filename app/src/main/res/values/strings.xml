@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Programas Sociales</string>
+    <string name="M">M</string>
+    <string name="F">F</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido_paterno">Apellido Paterno</string>
+    <string name="Apellido_materno">Apellido Materno</string>
+    <string name="Ciudad_municipio">Ciudad/Municipio</string>
+    <string name="Fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="CURP">CURP</string>
+    <string name="Escuela_actual">Escuela Actual</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Constancia_de_estudios">Constancia de Estudios</string>
+    <string name="Aspirante">Aspirante</string>
+</resources>
